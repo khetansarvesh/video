@@ -1,9 +1,9 @@
 # ****** Datasets ******
-[YouTube Faces DB](https://www.cs.tau.ac.il//~wolf/ytfaces/): a face video dataset for unconstrained face recognition in videos
-[UCF101](https://www.crcv.ucf.edu/data/UCF101.php): an action recognition data set of realistic action videos with 101 action categories
-[HMDB-51](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/): a large human motion dataset of 51 action classes
-[ActivityNet](http://activity-net.org/): A large-scale video dataset for human activity understanding
-[Moments in Time](https://arxiv.org/abs/1801.03150): A dataset of one million 3-second videos
+- [YouTube Faces DB](https://www.cs.tau.ac.il//~wolf/ytfaces/): a face video dataset for unconstrained face recognition in videos
+- [UCF101](https://www.crcv.ucf.edu/data/UCF101.php): an action recognition data set of realistic action videos with 101 action categories
+- [HMDB-51](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/): a large human motion dataset of 51 action classes
+- [ActivityNet](http://activity-net.org/): A large-scale video dataset for human activity understanding
+- [Moments in Time](https://arxiv.org/abs/1801.03150): A dataset of one million 3-second videos
 
 
 
