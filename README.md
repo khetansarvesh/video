@@ -7,9 +7,13 @@
 There is not much research going on in Video space and hence there is no large model yet ...
 
 # **********  Non-Generative Downstream Tasks (Supervised Learning)  **********
+
+## Video Level Tasks
 1. Video Classification Task
 
-2. 
+## Frame Level Tasks
+1. Object Tracking
+2. Key Point Detection
 
 
 
