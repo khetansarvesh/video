@@ -16,11 +16,12 @@ There is not much research going on in Video space and hence there is no large m
 
 # **********  Non-Generative Downstream Tasks (Supervised Learning)  **********
 
-## Video Level Tasks
+## a. Video Level Tasks
 1. Video Classification Task
 
-## Frame Level Tasks
-1. Object Tracking : This is nothing but doing object detection on each frame of the video. We have already seen how to do frame wise tasks here, you can use a similar approach
+## b. Frame Level Tasks
+1. Object Tracking : 
+This is nothing but doing object detection on each frame of the video. We have already seen how to do frame wise tasks here, you can use a similar approach
 
    - Method 1 : Using Image Model
      
@@ -36,9 +37,6 @@ There is not much research going on in Video space and hence there is no large m
 
    https://www.youtube.com/watch?v=DaULLeq_AAU
    
-3. Key Point Detection
-
-
 
 
 
