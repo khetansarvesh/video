@@ -6,14 +6,21 @@
 # ****** Representation Learning / Tokenization ******
 There is not much research going on in Video space and hence there is no large model yet ...
 
+
+
+
+
 # **********  Non-Generative Downstream Tasks (Supervised Learning)  **********
 
 ## Video Level Tasks
 1. Video Classification Task
 
 ## Frame Level Tasks
-1. Object Tracking
-2. Key Point Detection
+1. Object Tracking : This is nothing but doing object detection on each frame. We have already seen how to do frame wise tasks here, you can use a similar approach
+
+   https://www.youtube.com/watch?v=DaULLeq_AAU
+   
+3. Key Point Detection
 
 
 
