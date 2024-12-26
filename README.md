@@ -1,10 +1,3 @@
-# ****** Representation Learning / Tokenization ******
-There is not much research going on in Video space and hence there is no large model yet ...
-
-
-
-
-
 # **********  Non-Generative Downstream Tasks (Supervised Learning)  **********
 
 ## a. Video Level Tasks
