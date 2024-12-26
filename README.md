@@ -1,11 +1,11 @@
-# **********  Non-Generative Downstream Tasks (Supervised Learning)  **********
+# **********  Representation Learning  **********
 
-## a. Video Level Tasks
-1. [Video Classification Task](https://khetansarvesh.medium.com/video-classification-fc07152ad770)
+Now we already know that to do representation learning, we need some learning task, in literature researchers have defined many such tasks on video, some of the prominent ones have been discussed below 
 
-## b. Frame Level Tasks
-1. Object Tracking : 
-This is nothing but doing object detection on each frame of the video. We have already seen how to do frame wise tasks here, you can use a similar approach
+1. [Video Classification Task](https://khetansarvesh.medium.com/video-classification-fc07152ad770) ( Video Level Non-Generative Tasks (Supervised Learning) )
+
+2. Object Tracking (Frame Level Non-Generative Tasks (Supervised Learning)) 
+   This is nothing but doing object detection on each frame of the video. We have already seen how to do frame wise tasks here, you can use a similar approach
 
    - Method 1 : Using Image Model
      
@@ -20,14 +20,8 @@ This is nothing but doing object detection on each frame of the video. We have a
    - Method 2 : Frame Based Video Model
 
    https://www.youtube.com/watch?v=DaULLeq_AAU
-   
 
-
-
-
-# **********  Generative Downstream Tasks (UnSupervised Learning)  **********
-
-1. Video2Video Data Augmentation Task
+3. Video2Video Data Augmentation Task (Video Level Generative Tasks (UnSupervised Learning)
    
 https://www.youtube.com/watch?v=0K56LA821ys
 
