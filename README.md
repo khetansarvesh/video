@@ -17,7 +17,7 @@ There is not much research going on in Video space and hence there is no large m
 # **********  Non-Generative Downstream Tasks (Supervised Learning)  **********
 
 ## a. Video Level Tasks
-1. Video Classification Task
+1. [Video Classification Task](https://khetansarvesh.medium.com/video-classification-fc07152ad770)
 
 ## b. Frame Level Tasks
 1. Object Tracking : 
