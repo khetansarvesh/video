@@ -11,9 +11,3 @@ Now we already know that to do representation learning, we need some learning ta
 
 
 4. Video2Video Data Augmentation Task (Video Level Generative Tasks (UnSupervised Learning)
-   
-https://www.youtube.com/watch?v=0K56LA821ys
-
-https://www.youtube.com/watch?v=zSC145iNzE4
-
-https://www.youtube.com/watch?v=KAYYo3lNOHY
