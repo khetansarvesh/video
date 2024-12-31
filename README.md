@@ -5,10 +5,10 @@ Now we already know that to do representation learning we need some learning tas
 ### A . Non-Generative Tasks (Supervised Learning)
 1. [Video Classification Task](https://khetansarvesh.medium.com/video-classification-fc07152ad770) (Video Level Task)
 
-2. Object Tracking (Frame Level Task)
+2. Object Tracking Task (Frame Level Task)
 
     This is nothing but doing object detection on each frame of the video. We have already seen how to do frame level tasks [here](https://khetansarvesh.medium.com/video-classification-fc07152ad770#3dd0), you can use a similar 
     approach just that here you will use a image object detection model instead of using a image classifiction model !!
 
 ### B . Generative Tasks (UnSupervised Learning)
-1. Video Reconstruction / Data Augmentation (Video Level Task)
+1. Video Reconstruction / Data Augmentation Task (Video Level Task)
