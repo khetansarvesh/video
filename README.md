@@ -11,4 +11,4 @@ Now we already know that to do representation learning we need some learning tas
     approach just that here you will use a image object detection model instead of using a image classifiction model !!
 
 ### B . Generative Tasks (UnSupervised Learning)
-1. Video Reconstruction / Data Augmentation Task (Video Level Task)
+1. [Video Reconstruction / Data Augmentation Task](https://medium.com/p/b0a73ff3396f/edit) (Video Level Task)
